@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+... and deploy to [DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-react-application-to-digitalocean-app-platform)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
